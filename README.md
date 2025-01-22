@@ -15,7 +15,7 @@ RUBIX
    │  │  ├─ donation.js
    │  │  ├─ donor.js
    │  │  ├─ User.js
-   │  │  └─ volunteer.js
+   │  │ 
    │  ├─ package-lock.json
    │  ├─ package.json
    │  ├─ routes
